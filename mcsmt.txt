@@ -1,0 +1,11 @@
+Hello everyone, I am the OriginalFactor of the Elemental Cloud Service Software Development Department. I am responsible for the business of software development.
+Here I wish you all a happy New Year!
+If you use the latest V0.3.0.2 (PyPI) or V3 --0.3.0.2 (Releases) or V4.0.2B (Rust, internal test), you can see this announcement.
+Although it is a bit suspected of launching the gun, we always recommend you to upgrade to the latest version of the MCSMT. You have to realize that MCSMT is completely backward, and we will not and do not want to change the writing specifications of the configuration file. We will only add new features on the basis of existing (such as the recent advanced DNS function, advanced update settings, and The traversing of the server configuration file).
+(As of now, ordinary search has been deleted, no matter how configuration will always use traversal search, that is, including subdirectory files)
+Please allow ecsdevs.github.io to obtain announcement through the firewall.
+
+The portable version can only download the GitHub Releases file manually to get updates. The full version can be updated through the command "pip install -U mcsmt"
+The newly launched UI can only download the GitHub Releases file for the time being.
+The UI program cannot obtain information output from the console. Please keep your attention. The UI program cannot automatically start the main program, and the UI program depends on the API provided by the main program.
+See http://127.0.0.1:36685/docs for API documents.
